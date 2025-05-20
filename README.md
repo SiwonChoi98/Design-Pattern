@@ -28,5 +28,5 @@
 - Composite Pattern
 [ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Composite ]
 
-- Commend Pattern
-  
+- Command Pattern
+[ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Command ]
