@@ -8,3 +8,11 @@
 [https://github.com/SiwonChoi98/NewFunc/tree/main/Assets/01_Scripts/Func/MVPPattern]
 
 - Sington Pattern
+- State Pattern
+- Observer Pattern
+- Factory Pattern
+- Commend Pattern
+- FlyWegight Pattern
+- Composite Pattern
+- Facade Pattern
+  
