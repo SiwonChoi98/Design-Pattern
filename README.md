@@ -20,7 +20,7 @@
 [ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Factory ]
 
 - Flyweight Pattern
-
+[ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Flyweight ] 
 
 - Facade Pattern
 - Commend Pattern
