@@ -11,7 +11,7 @@
 [ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Singleton ]
 
 - Observer Pattern
-  
+[ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Observer ]
 
 - State Pattern
 - Factory Pattern
