@@ -3,6 +3,7 @@
 
 - Strategy Pattern
 - MVP Pattern
+[https://github.com/SiwonChoi98/NewFunc/tree/main/Assets/01_Scripts/Func/MVPPattern]
 
 
 - Sington Pattern
