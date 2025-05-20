@@ -12,7 +12,7 @@
 - Observer Pattern
 - Factory Pattern
 - Commend Pattern
-- FlyWegight Pattern
+- Flyweight Pattern
 - Composite Pattern
 - Facade Pattern
   
