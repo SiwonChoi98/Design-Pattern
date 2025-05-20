@@ -17,8 +17,12 @@
 [ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/State ]
   
 - Factory Pattern
-- Commend Pattern
+[ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Factory ]
+
 - Flyweight Pattern
-- Composite Pattern
+
+
 - Facade Pattern
+- Commend Pattern
+- Composite Pattern
   
