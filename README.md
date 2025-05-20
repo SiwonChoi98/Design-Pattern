@@ -8,8 +8,12 @@
 [https://github.com/SiwonChoi98/NewFunc/tree/main/Assets/01_Scripts/Func/MVPPattern]
 
 - Sington Pattern
-- State Pattern
+[ https://github.com/SiwonChoi98/Design-Pattern/tree/main/Assets/01.Scripts/Singleton ]
+
 - Observer Pattern
+  
+
+- State Pattern
 - Factory Pattern
 - Commend Pattern
 - Flyweight Pattern
